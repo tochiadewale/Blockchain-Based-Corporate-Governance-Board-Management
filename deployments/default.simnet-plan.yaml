@@ -54,4 +54,9 @@ plan:
             emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
             path: contracts/compliance-monitoring.clar
             clarity-version: 2
+        - emulated-contract-publish:
+            contract-name: decision-tracking
+            emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
+            path: contracts/decision-tracking.clar
+            clarity-version: 2
       epoch: "2.5"
